@@ -1,2 +1,3 @@
 # Simple-Eticketing
-Simple E-ticketing sederhana
+Simple E-ticketing sederhana dari php native
+
